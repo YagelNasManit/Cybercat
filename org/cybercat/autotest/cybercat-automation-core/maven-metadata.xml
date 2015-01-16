@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cybercat.autotest</groupId>
+  <artifactId>cybercat-automation-core</artifactId>
+  <versioning>
+    <release>1.0-realise</release>
+    <versions>
+      <version>1.0-realise</version>
+    </versions>
+    <lastUpdated>20150116101845</lastUpdated>
+  </versioning>
+</metadata>
